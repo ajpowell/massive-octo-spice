@@ -10,7 +10,7 @@ from BNG import to_osgb36, from_osgb36
     Taken from:
     http://hannahfry.co.uk/2012/02/01/converting-british-national-grid-to-latitude-and-longitude-ii/
     
-    25/02/2014
+    Downloaded: 25/02/2014
     
 """
 
